@@ -19,7 +19,8 @@ let buttonsDOM = [];
 
 
 // URLS
-const url = '/service/loja-de-bombons.json';
+const url = 'https://raw.githubusercontent.com/brunoliimas/codeby-test-frontend/main/service/loja-de-bombons.json';
+// const url = '/service/loja-de-bombons.json';
 
 // Obtendo produtos
 class Products {
