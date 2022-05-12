@@ -6,6 +6,9 @@
 
 > **Este é um projeto desenvolvido como teste de um processo seletivo**
 
+<img src="/assets/shopby.png" alt="Docusaurus">
+
+
 ## Teste Carrinho
 
 
